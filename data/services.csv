@@ -1,0 +1,21 @@
+service_id,service_name,service_type,customer_segment,sla_tier,region
+SVC001,Toronto Mobile Data Service 1,Mobile Data,Enterprise,Gold,Toronto
+SVC002,Mississauga Voice Service 2,Voice,Consumer,Bronze,Mississauga
+SVC003,Toronto Enterprise VPN Service 3,Enterprise VPN,Business,Bronze,Toronto
+SVC004,Toronto Mobile Data Service 4,Mobile Data,Consumer,Silver,Toronto
+SVC005,Toronto Enterprise VPN Service 5,Enterprise VPN,Consumer,Platinum,Toronto
+SVC006,Mississauga Broadband Service 6,Broadband,Enterprise,Gold,Mississauga
+SVC007,Toronto Voice Service 7,Voice,Enterprise,Platinum,Toronto
+SVC008,Ottawa SMS Service 8,SMS,Consumer,Silver,Ottawa
+SVC009,Ottawa Mobile Data Service 9,Mobile Data,Consumer,Platinum,Ottawa
+SVC010,Toronto SMS Service 10,SMS,Business,Gold,Toronto
+SVC011,Toronto Broadband Service 11,Broadband,Enterprise,Bronze,Toronto
+SVC012,Brampton Mobile Data Service 12,Mobile Data,Enterprise,Gold,Brampton
+SVC013,Ottawa Enterprise VPN Service 13,Enterprise VPN,Consumer,Bronze,Ottawa
+SVC014,Toronto Voice Service 14,Voice,Business,Bronze,Toronto
+SVC015,Mississauga Mobile Data Service 15,Mobile Data,Business,Gold,Mississauga
+SVC016,Brampton SMS Service 16,SMS,Consumer,Gold,Brampton
+SVC017,Ottawa Voice Service 17,Voice,Enterprise,Gold,Ottawa
+SVC018,Toronto Enterprise VPN Service 18,Enterprise VPN,Enterprise,Silver,Toronto
+SVC019,Mississauga Voice Service 19,Voice,Business,Platinum,Mississauga
+SVC020,Ottawa Enterprise VPN Service 20,Enterprise VPN,Consumer,Gold,Ottawa
